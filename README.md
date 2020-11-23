@@ -1,4 +1,5 @@
-### Hi there 👋 Nishit Here
+[![NishitCodes's github stats](https://github-readme-stats.vercel.app/api?username=NishitCodes&theme=material-palenight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishitCodes&theme=material-palenight&layout=compact)]()
 
 
 <!--
