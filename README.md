@@ -1,5 +1,5 @@
-[![GitHub Stats](./profile-summary-cards-output/default/3-stats.svg)]()
-[![Top Langs](./profile-summary-cards-output/default/2-most-commit-language.svg)]()
+[![GitHub Stats](./profile-summary-card-output/default/3-stats.svg)]()
+[![Top Langs](./profile-summary-card-output/default/2-most-commit-language.svg)]()
 
 
 <!--
