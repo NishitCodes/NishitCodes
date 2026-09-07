@@ -1,5 +1,5 @@
-[![NishitCodes's github stats](./assets/github-stats.svg)]()
-[![Top Langs](./assets/top-langs.svg)]()
+[![GitHub Stats](./profile-summary-cards-output/default/3-stats.svg)]()
+[![Top Langs](./profile-summary-cards-output/default/2-most-commit-language.svg)]()
 
 
 <!--
